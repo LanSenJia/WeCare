@@ -1,0 +1,4 @@
+#Tue Sep 22 11:01:46 CST 2020
+base.0=D\:\\AndroidStudioProjects\\WeCare\\app\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
